@@ -16,9 +16,7 @@ mediaServer.use(router);
 
 
 // port for the server
-const PORT = process.env.PORT || 4000;
-
-// to listen to the request from the frontend to resolve the request.
+const PORT = process.env.PORT || 10000;
 mediaServer.listen(PORT, () => {
-    console.log(`Media server is running on port ${PORT}`);
+  console.log(`Media server is running on port ${PORT}`);
 });
