@@ -1,0 +1,61 @@
+{
+  "videos": [
+    {
+      "caption": "Wheels on the Bus | @CoComelon Nursery Rhymes & Kids Songs",
+      "category": "music",
+      "thumbnailUrl": "https://i.ytimg.com/vi/e_04ZrNroTo/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/e_04ZrNroTo",
+      "description": "nursery rhymes",
+      "id": 1
+    },
+    {
+      "caption": "Visuals Of Interstellar | 4K | Hans Zimmer | Aplucalypse |",
+      "category": "movies",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1ZT6yWl3LPM/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/1ZT6yWl3LPM",
+      "description": "INTERSTELLAR",
+      "id": 2
+    },
+    {
+      "caption": " Post Malone, Swae Lee - Sunflower (Spider-Man: Into the Spider-Verse) (Official Video)",
+      "category": "music",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ApXoWvfEYVU/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/ApXoWvfEYVU",
+      "description": "MILES MORALES",
+      "id": 3
+    },
+    {
+      "caption": "Hello Im Under The Water...",
+      "category": "comedy",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SfT4FMkh1-w/sddefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/SfT4FMkh1-w",
+      "description": "WATER",
+      "id": 4
+    },
+    {
+      "caption": "7 Graphics Engines That Look Absolutely INSANE",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oBHdWvn0AGQ/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/oBHdWvn0AGQ",
+      "category": "gaming",
+      "description": "gaming",
+      "id": 5
+    }
+  ],
+  "history": [],
+  "categories": [
+    {
+      "categoryName": "hindi hits",
+      "AllVideos": [
+        {
+          "caption": "7 Graphics Engines That Look Absolutely INSANE",
+          "thumbnailUrl": "https://i.ytimg.com/vi/oBHdWvn0AGQ/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/oBHdWvn0AGQ",
+          "category": "gaming",
+          "description": "gaming",
+          "id": 5
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
